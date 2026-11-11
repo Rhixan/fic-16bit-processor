@@ -1,0 +1,5 @@
+# Logisim Evolution JAR (download separately, ~54MB)
+gen/
+*.jar
+__pycache__/
+*.pyc
